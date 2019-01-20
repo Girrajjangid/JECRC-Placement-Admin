@@ -3,11 +3,11 @@ package facultyproject.facultyproject;
 
 class Config {
 
-    static final String URL_LOGIN="http://cricketmozo.000webhostapp.com/PLACEMENT/FacultyLogin.php";
-    static final String URL_UPLOAD_INFO="http://cricketmozo.000webhostapp.com/PLACEMENT/UploadData.php";
-    static final String URL_DOWNLOAD_INFO="http://cricketmozo.000webhostapp.com/PLACEMENT/DownloadData.php";
-    static final String URL_GETSTUDENTS ="http://cricketmozo.000webhostapp.com/PLACEMENT/GetInterestedStudent.php" ;
-    static final String URL_DELETE_SINGLE ="http://cricketmozo.000webhostapp.com/PLACEMENT/DeleteSingleData.php" ;
+    static final String URL_LOGIN="http://megaversion.online/PLACEMENT/FacultyLogin.php";
+    static final String URL_UPLOAD_INFO="http://megaversion.online/PLACEMENT/UploadData.php";
+    static final String URL_DOWNLOAD_INFO="http://megaversion.online/PLACEMENT/DownloadData.php";
+    static final String URL_GETSTUDENTS ="http://megaversion.online/PLACEMENT/GetInterestedStudent.php" ;
+    static final String URL_DELETE_SINGLE ="http://megaversion.online/PLACEMENT/DeleteSingleData.php" ;
 
 
     static final String KEY_USER_EMAIL="email";
